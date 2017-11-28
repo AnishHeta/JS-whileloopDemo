@@ -1,0 +1,16 @@
+var motivation = confirm("click ok to get advice to overcome heartbreak");
+    while(motivation){
+                    alert("Everyone gone through it so you are not alone,you can overcome easily.Keep working hard!");
+     
+var yes = confirm("would you like to continue the session ?");
+    if(yes){
+           var response = prompt("you are broken because of money of love ?");
+    if(response){
+               alert("You get detailed advice by clicking www.xyz.com");
+               motivation = false;
+}
+}
+else{
+    motivation = false;
+}
+}
